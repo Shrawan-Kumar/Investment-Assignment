@@ -1,7 +1,7 @@
 # Investment-Assignment
 A Data Analytics Project for Spark Fund Investment
 
-**Objective: **
+**Objective:**
 To understand the global trends in investments so that investment decisions can be made effectively.
 Spark Fund has two minor constraints for investments:
 1) It wants to invest between 5 to 15 million USD per round of investment
